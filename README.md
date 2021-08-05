@@ -8,8 +8,5 @@
   1.메인
   ![그그지메인](https://user-images.githubusercontent.com/86863254/127943983-44ac6742-a281-48a5-a96b-e4fcb7f071cc.png)
   2.구조
-  ![그그지_구조](https://user-images.githubusercontent.com/86863254/127943978-3f625b64-5dee-43c5-835b-821db14bc69b.png)
-  3.디비 
+  ![그그지_구조](https://user-images.githubusercontent.com/86863254/127943978-3f625b64-5dee-43c5-835b-821db14bc69b.png){: width="10px" height="10px"}3.디비 
   ![그그지_디비](https://user-images.githubusercontent.com/86863254/127943982-b65692c5-b13f-4e56-a1d3-3cf032dbaf9f.png)
-
-
